@@ -1,2 +1,2 @@
-# NoiseInterface
-NoiseInterface, a python tool for extracting the noise signature from neural electrophysiology recordings to validate spike-sorting results.
+# Spike Sorting - Robustness and Reliability
+Code repository for the analysis on the robustness and reliability of spike sorting.
